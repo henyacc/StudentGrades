@@ -1,0 +1,15 @@
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.deps.json
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.runtimeconfig.json
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.dll
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/bin/Debug/net9.0/StudentGrades.pdb
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfoInputs.cache
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.AssemblyInfo.cs
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.csproj.CoreCompileInputs.cache
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.sourcelink.json
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.dll
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/refint/StudentGrades.dll
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.pdb
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/StudentGrades.genruntimeconfig.cache
+/Users/grace/Desktop/Repos/StudentGrades/StudentGrades/obj/Debug/net9.0/ref/StudentGrades.dll
