@@ -12,13 +12,13 @@ class Program
         {
             StudentId = 1,
             Grades = [90.1, 88.7, 100, 97.6],
-            Name = "Sharah",
+            Name = "Sharah"
         };
         
         student1.AddGrade(90.8);
         
-        Student student2 = new Student();
-        student2.StudentId = 2;
+        Student student2 = new Student();// dot notation, made a new instance of the class (blueprint)
+        student2.StudentId = 2; //dotted down into that class which holds the variable student1, to reach the StudentId property
         student2.Grades = [88.8, 90.6];
         student2.Name = "Michael";
         
@@ -38,7 +38,7 @@ class Program
         
         student4.AddGrade(85.9);
         
-        students.AddRange([student1, student2, student3, student4]);
+        students.AddRange([student1, student2, student3, student4]);//add range for adding mutiple elements to a list
 
         foreach (Student item in students)
         {
